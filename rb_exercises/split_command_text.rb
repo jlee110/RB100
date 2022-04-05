@@ -1,0 +1,1 @@
+"cat".between?("ant", "zebra")
